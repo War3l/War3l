@@ -4,4 +4,4 @@ Je crée **[LARP](https://github.com/War3l/quilarp)**, un jeu multijoueur de blu
 
 <a href="https://github.com/War3l/quilarp"><img src="https://raw.githubusercontent.com/War3l/quilarp/main/assets/banniere.png" alt="LARP — Sais-tu vraiment… ou tu LARP ?" width="100%"></a>
 
-▶ **Jouer : [quilarp.fr](https://quilarp.fr)** · 📖 **[Découvrir le projet](https://github.com/War3l/quilarp)**
+▶ **Jouer : [quilarp.fr](https://quilarp.fr)** · 📖 **[Découvrir le projet](https://github.com/War3l/quilarp)** · ✉️ **[contact@quilarp.fr](mailto:contact@quilarp.fr)**
